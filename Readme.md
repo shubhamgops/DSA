@@ -9,7 +9,7 @@
 [Code](Arrays/PrefixSum/EquilibriumIndexOfArray.java)
 
 2. **Rain Water Trapped**
-[Notes](Notes/TwoPointers/RainWaterTrapped.pdf)
+[Notes](Notes/Arrays/TwoPointers/RainWaterTrapped.pdf)
 [Code](Arrays/TwoPointers/RainWaterTrapped.java)
 
 3. **Single Number 2**
