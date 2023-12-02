@@ -13,5 +13,5 @@
 [Code](Arrays/TwoPointers/RainWaterTrapped.java)
 
 3. **Single Number 2**
-[Notes](Notes/Bit Manipulations/SingleNumber2.pdf)
-[Code](BitManipulations/SingleNumber2.java)
+[Notes](Notes/BitManipulations/SingleNumber2.pdf)
+[Code] (BitManipulations/SingleNumber2.java)
