@@ -14,4 +14,4 @@
 
 3. **Single Number 2**
 [Notes](Notes/BitManipulations/SingleNumber2.pdf)
-[Code] (BitManipulations/SingleNumber2.java)
+[Code](BitManipulations/SingleNumber2.java)
