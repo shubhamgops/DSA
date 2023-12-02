@@ -5,5 +5,9 @@
 ### PrefixSum
 
 1. **Equilibrium Index Of Array**
-[Notes](Notes/Arrays/PrefisSum/EquilibriumIndexOfArray.pdf)
+[Notes](Notes/Arrays/PrefixSum/EquilibriumIndexOfArray.pdf)
 [Code](Arrays/PrefixSum/EquilibriumIndexOfArray.java)
+
+2. **Rain Water Trapped**
+[Notes](Notes/TwoPointers/RainWaterTrapped.pdf)
+[Code](Arrays/TwoPointers/RainWaterTrapped.java)

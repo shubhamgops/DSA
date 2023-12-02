@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RainWaterTrapped",
+      "request": "launch",
+      "mainClass": "Arrays.TwoPointers.RainWaterTrapped",
+      "projectName": "DSA_52a69048"
+    },
+    {
+      "type": "java",
       "name": "EquilibriumIndexOfArray",
       "request": "launch",
       "mainClass": "EquilibriumIndexOfArray",
